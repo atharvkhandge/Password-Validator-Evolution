@@ -1,2 +1,11 @@
-# Password-Validator-Evolution
-A multi-stage evolution of a Python password validator, showcasing the transition from basic logic to Regex and industry-standard libraries like zxcvbn.
+This repository tracks my journey from writing basic logic to implementing industry-standard security libraries. 
+It showcases how code can be refactored for better efficiency, readability, and security.
+
+## 🚀 Roadmap
+* **v1.0** (Current): Basic logic using loops and string methods.
+* **v2.0** (Next): Refactoring with **Regex** and generator expressions.
+* **v3.0 (Planned):** Integrating **zxcvbn** for entropy-based strength estimation.
+
+## 🛠️ Usage
+Navigate to the specific version folder and run the script:
+`python v1_basics/main.py`
